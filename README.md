@@ -93,4 +93,4 @@ Daniel López-Antona Pesquera - Computer Engineering Student
 
 ## 📄 License
 
-This proyect is licensed under the [MIT License]()
+This proyect is licensed under the [MIT License](https://github.com/Frosty2205/Bank-account-management-system/blob/main/LICENSE.md)
