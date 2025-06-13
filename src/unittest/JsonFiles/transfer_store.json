@@ -1,0 +1,12 @@
+[
+    {
+        "from_iban": "ES6621000418401234567891",
+        "to_iban": "Abono nomina",
+        "transfer_type": "ES6000491500051234567892",
+        "transfer_amount": 400.34,
+        "transfer_concept": "ORDINARY",
+        "transfer_date": "04/02/2025",
+        "time_stamp": 1740873600.0,
+        "transfer_code": "9322a9a18593641aff07efee927d3dca"
+    }
+]

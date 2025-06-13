@@ -1,0 +1,10 @@
+astroid>=3.3.8,<3.4.0
+colorama==0.4.6
+dill==0.3.9
+isort==6.0.0
+mccabe==0.7.0
+platformdirs==4.3.6
+pybuilder==0.13.14
+pylint==3.3.4
+tomlkit==0.13.2
+freezegun==1.5.1
